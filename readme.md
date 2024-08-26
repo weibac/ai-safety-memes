@@ -4,25 +4,23 @@ A collection of memes about AI Safety, classified by various tags.
 
 ### Filename format
 
-```injokeness-tone0_tone1-content0_content1-format.{png/jpg/...}```
+```format-tone0+tone1-content0+content1.{png/jpg/...}```
 
 ### Filename values
 
-- injokeness:
-  - broadGeneralPublic
-  - broadProgrammer
-  - broadMLPerson
-  - niche
-
 - tone
+  - direct 
   - nuanced
+  - subtweet
   - strawman
 
 - content
   - ...
 
 - format
-  - see knowyourmeme.com
+  - impactfont
+  - twitterformat
+  - tweet
 
 ### Can I contribute?
 
